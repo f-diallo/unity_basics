@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "100 Mechanics - Go to Next Level",
+"dataUrl": "build_webgl_load_next_scene.data.unityweb",
+"wasmCodeUrl": "build_webgl_load_next_scene.wasm.code.unityweb",
+"wasmFrameworkUrl": "build_webgl_load_next_scene.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
